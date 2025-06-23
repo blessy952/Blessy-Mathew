@@ -1,44 +1,66 @@
 # Blessy-Mathew
 ![image](https://github.com/user-attachments/assets/a02215c0-6155-44c8-956c-a42405346e4b)
 
+<h1 align="center">Hi 👋, I'm Blessy Mathew</h1>
 
-## 👋 About Me
+<p align="center">
+🎯 QA Tech Lead turned Aspiring Data Analyst  
+<br>
+🔍 Passionate about transforming data into insights  
+<br>
+📫 Reach me at: <a href="mailto:blessy952@gmail.com">blessy952@gmail.com</a>  
+<br>
+🔗 <a href="www.linkedin.com/in/blessy-mathew-488a46108" target="_blank">Blessy Mathew</a>  
+</p>
 
-I'm actively exploring opportunities in data analytics. I enjoy creating practical solutions through data and have completed projects involving data cleaning, dashboarding, and reporting automation using tools like Python, SQL, and Power BI.
+---
 
-## PROJECTS:
+## 👩‍💻 About Me
 
-  ### Fundamentals of Python Capstone (May 2025)
-https://github.com/blessy952/Fundamentals-of-Python-Capstone-.git
--	Situation: Given three unstructured datasets on employees, projects, and designation levels for a performance review task.
--	Task: Prepare and analyze the data using Python to perform cleaning, transformation, business rule implementation, and final reporting.
--	Action: Created and saved Data Frames as CSVs, handled missing values with a running average, split and formatted name data, merged datasets, applied bonus and demotion logic using conditions and loops, performed text operations and aggregations.
--	Result: Delivered a clean, consolidated dataset with computed metrics, enabling project cost tracking, employee-level designation adjustments, and insightful reporting using core Python libraries.
+I’m a **Technical Lead – II (QA)** professional making a purposeful transition into the field of **Data Analytics**. I bring with me a strong foundation in:
 
-  ### ShopNest Store Power BI Capstone (April 2025)
-https://github.com/blessy952/PowerBI-Capstone-Project.git
--	Situation: Faced with a comprehensive retail dataset from a leading e-commerce platform.
--	Task: Required to build an analytical Power BI dashboard to uncover insights on sales, delivery delays, product performance, and customer behavior.
--	Action: Cleaned and modeled data; created dynamic visuals for top categories, delayed orders, seasonal sales, payment methods, ratings, and revenue trends using drill through and cross-report features.
--	Result: Delivered an interactive dashboard enabling actionable insights and improved decision-making; enhanced skills in DAX, data visualization, and business analytics.
+- ✅ Problem-solving  
+- ✅ Critical thinking  
+- ✅ Process optimization  
 
-	### SQL Capstone (Feb 2025)
-https://github.com/blessy952/SQL-capstone-Project.git
--	Situation: Worked on a real-world dataset requiring database design, data extraction, and business insight generation
--	Task: Design SQL queries to extract meaningful insights, perform data cleaning, and support data-driven decisions.
--	Action: Created complex queries using joins, subqueries, aggregate functions, and window functions; optimized performance and ensured data integrity.
--	Result: Delivered an end-to-end solution that provided accurate, actionable insights and demonstrated strong SQL proficiency.
+My journey in data started with real-world projects and hands-on learning using **Excel**, **SQL**, **Python**, and **Power BI**. I'm particularly passionate about:
 
-  ### Fundamentals, Data Manipulation and Working with Tables (Dec 2024)
-https://github.com/blessy952/Excel-Fundamentals-Data-Manipulation-and-Working-with-Tables-.git
--	Situation: Handled raw and unstructured datasets focused on business sales and performance analysis.
--	Task: Required to clean, organize, and present data in a structured and insightful format to support decision-making.
--	Action: Applied Excel functions, sorting/filtering, conditional formatting, pivot tables, and dynamic charting to transform and analyze the data.
--	Result: Produced structured, visually rich reports that enhanced data clarity, improved analysis efficiency, and enabled actionable business insights
+- 🔹 Cleaning and exploring messy data  
+- 🔹 Automating reports and dashboards  
+- 🔹 Delivering business insights through storytelling  
+
+Having led technical teams in QA, I value **accuracy**, **clarity**, and **collaboration** — traits I now bring into the analytics space.
+
+🚀 Currently exploring opportunities in Data Analytics!
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+**Analytics Skills:**  
+`Data Cleaning` • `Manipulation` • `Exploration` • `Visualization` • `Dashboarding` • `Reporting Automation`
+
+**Statistical Tools:**  
+`Descriptive & Inferential Statistics` • `Hypothesis Testing`
+
+**Others:**  
+`Jira` • `HP-ALM` • `GenAI Tools` • `Business Communication` • `Data Storytelling`
+
+---
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BlessyMathew-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/blessy-mathew-488a46108)
+[![Gmail](https://img.shields.io/badge/Gmail-blessy952@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blessy952@gmail.com)
 
 
-## 🛠️ Skills
-Excel, SQL, Python, Power Bi, Data Analysis, Data Manipulation, Descriptive Statistics, Inferential Statistics, Problem Solving, Business Sense, Data Modeling, Data Mining, Jira, HP-ALM, GenAI tools.
 
 
 
